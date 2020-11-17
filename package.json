@@ -1,0 +1,35 @@
+{
+  "name": "bot_discord",
+  "version": "0.0.1",
+  "description": "bot discord",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/collection": "latest",
+    "@discordjs/opus": "^0.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.4",
+    "firebase": "^7.15.3",
+    "firebase-admin": "^8.12.1",
+    "node-cron": "^2.0.3",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "nicolas alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoAlves/"
+  },
+  "homepage": ""
+}
