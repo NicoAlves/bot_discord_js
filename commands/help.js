@@ -10,8 +10,6 @@ module.exports = {
             "\n[rate](phrase) Le bot donne une note .\n" +
             "\n[calc](calcul) Le bot calcul pour toi .\n" +
             "\n[google](argument) Le bot trouve une image en rapport avec ton argument .\n" +
-            "\n[topic]() Le bot prends un topic au harsard parmi les derniers topics de jvc .\n" +
-            "\n[sticker]() Sort un sticker jvc au hasard .\n" +
             "\n[pseudo](nom_du_joueur) Renvoie l'historique des pseudos du joueur.\n" +
             "\n[ajout](vérité ou action)(phrase) Ajoute votre argument dans la catégorie correspondante.\n" +
             "\n[action ou vérité](tag) Vous envoyez une requête vers un membre du discord.\n" 
